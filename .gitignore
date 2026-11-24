@@ -1,0 +1,9 @@
+# Release binaries belong in GitHub Releases, not in the repository.
+*.exe
+*.msi
+*.zip
+*.7z
+*.pdb
+*.tmp
+Thumbs.db
+.DS_Store
